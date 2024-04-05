@@ -1,16 +1,6 @@
 apiVersion: v1
 data:
   index.html: |-
-    <p>Projeto da disciplina - Administra&ccedil;&atilde;o de Containers Docker e Kubernetes</p>
-<p>PROFESSOR: Paulo Vigne</p>
-<p>C&oacute;digo da disciplina: 24LDA-B201</p>
-<p>GitHub: <a href="https://github.com/nathanabpereira/gitops">https://github.com/nathanabpereira/gitops</a></p>
-<p>ALUNO: Bruno Raimundo</p>
-<p>E-MAIL: <a href="mailto:bruno.raimundo@al.infnet.edu.br">bruno.raimundo@al.infnet.edu.br </a></p>
-<p>ALUNO: Marcelo Augusto Ribeiro Mar&ccedil;al</p>
-<p>E-MAIL: <a href="mailto:marcelo.marcal@al.infnet.edu.br">marcelo.marcal@al.infnet.edu.br </a></p>
-<p>ALUNO: Nathan Pereira</p>
-<p>E-MAIL: <a href="mailto:nathan.apereira@al.infnet.edu.br">nathan.apereira@al.infnet.edu.br</a></p>
     <h1 id="simple-go-crud-app-with-postgresql-database">Simple Go CRUD App with PostgreSQL Database</h1>
     <h2 id="types">Types</h2>
     <table>
@@ -50,6 +40,25 @@ data:
     <h4 id="post-api-newuser-">POST &quot;/api/newuser&quot;</h4>
     <h4 id="put-api-user-id-">PUT &quot;/api/user/{id}&quot;</h4>
     <h4 id="delete-api-deleteuser-id-">DELETE &quot;/api/deleteuser/{id}&quot;</h4>
+<p>Projeto da disciplina - Administração de Containers Docker e Kubernetes
+
+PROFESSOR: Paulo Vigne
+
+Código da disciplina: 24LDA-B201
+
+GitHub: https://github.com/nathanabpereira/gitops
+
+ALUNO: Bruno Raimundo
+
+E-MAIL: bruno.raimundo@al.infnet.edu.br
+
+ALUNO: Marcelo Augusto Ribeiro Marçal
+
+E-MAIL: marcelo.marcal@al.infnet.edu.br
+
+ALUNO: Nathan Pereira
+
+E-MAIL: nathan.apereira@al.infnet.edu.br</p>
 kind: ConfigMap
 metadata:
   name: landing-page
