@@ -1,6 +1,16 @@
 apiVersion: v1
 data:
   index.html: |-
+    <p>Projeto da disciplina - Administra&ccedil;&atilde;o de Containers Docker e Kubernetes</p>
+<p>PROFESSOR: Paulo Vigne</p>
+<p>C&oacute;digo da disciplina: 24LDA-B201</p>
+<p>GitHub: <a href="https://github.com/nathanabpereira/gitops">https://github.com/nathanabpereira/gitops</a></p>
+<p>ALUNO: Bruno Raimundo</p>
+<p>E-MAIL: <a href="mailto:bruno.raimundo@al.infnet.edu.br">bruno.raimundo@al.infnet.edu.br </a></p>
+<p>ALUNO: Marcelo Augusto Ribeiro Mar&ccedil;al</p>
+<p>E-MAIL: <a href="mailto:marcelo.marcal@al.infnet.edu.br">marcelo.marcal@al.infnet.edu.br </a></p>
+<p>ALUNO: Nathan Pereira</p>
+<p>E-MAIL: <a href="mailto:nathan.apereira@al.infnet.edu.br">nathan.apereira@al.infnet.edu.br</a></p>
     <h1 id="simple-go-crud-app-with-postgresql-database">Simple Go CRUD App with PostgreSQL Database</h1>
     <h2 id="types">Types</h2>
     <table>
