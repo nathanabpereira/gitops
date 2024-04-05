@@ -40,16 +40,6 @@ data:
     <h4 id="post-api-newuser-">POST &quot;/api/newuser&quot;</h4>
     <h4 id="put-api-user-id-">PUT &quot;/api/user/{id}&quot;</h4>
     <h4 id="delete-api-deleteuser-id-">DELETE &quot;/api/deleteuser/{id}&quot;</h4>
-<p>Projeto da disciplina - Administração de Containers Docker e Kubernetes
-PROFESSOR: Paulo Vigne
-Código da disciplina: 24LDA-B201
-GitHub: https://github.com/nathanabpereira/gitops
-ALUNO: Bruno Raimundo
-E-MAIL: bruno.raimundo@al.infnet.edu.br
-ALUNO: Marcelo Augusto Ribeiro Marçal
-E-MAIL: marcelo.marcal@al.infnet.edu.br
-ALUNO: Nathan Pereira
-E-MAIL: nathan.apereira@al.infnet.edu.br</p>
 kind: ConfigMap
 metadata:
   name: landing-page
